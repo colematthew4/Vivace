@@ -1,6 +1,6 @@
 # ![Vivace](assets/VivaceLogo.svg)
 
-A mobile score writer that enables composers and song-writers to document tunes and melodies using their instruments as the paper and pencil. 
+A mobile score writer that enables composers and song-writers to document tunes and melodies using their instruments as the paper and pencil.
 
 Vivace is currently in the very early stages of development.
 
