@@ -1,6 +1,6 @@
 # Goals for Rendering Music Data
 
-> Moving to a separate library ([Stravigor - Named for a rolling rastrum invented by famed composer Igor Stravinsky](https://github.com/colematthew4/Stravigor))
+> Moving to a separate library ([Rastra](https://github.com/colematthew4/Rastra))
 
 - *Easily transposable with musicxml schema*
 - Can have multiple staves for different instruments or melodies
